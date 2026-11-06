@@ -1,0 +1,13 @@
+# 사용자 인증정보와 운영 환경 파일 제외
+.env
+.env.*
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.log
+*.npy
+*.npz
+.DS_Store
